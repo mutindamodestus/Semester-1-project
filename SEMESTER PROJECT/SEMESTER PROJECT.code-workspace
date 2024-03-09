@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Banking system"
+		},
+		{
+			"path": "../my projects"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "SEMESTER PROJECT"
+	}
+}
